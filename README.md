@@ -1,6 +1,7 @@
-<img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-20 at 23 59 53" src="https://github.com/user-attachments/assets/5d3ce702-55f1-474e-97c7-50a41f125ed9" />
-<img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-07-21 at 00 02 48" src="https://github.com/user-attachments/assets/25bb776a-00d3-485d-b637-d04e8c86964f" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5d3ce702-55f1-474e-97c7-50a41f125ed9" alt="Screenshot 1" width="300"/>
+  <img src="https://github.com/user-attachments/assets/25bb776a-00d3-485d-b637-d04e8c86964f" alt="Screenshot 2" width="300"/>
+</p>
 
 # Apple LLM Chat
 
